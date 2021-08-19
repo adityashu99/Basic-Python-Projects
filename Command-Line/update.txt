@@ -1,0 +1,6 @@
+First Build : 
+
+# Built Command-Line Project.
+# CLI has/understands only 3 commands {!hello, !help, !!quit}
+# Commands and their Functions are stated in documentation.txt
+# CLI prints "Invalid Command, Try Again." when any undefined command is given as Input by a User.

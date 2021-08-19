@@ -1,0 +1,22 @@
+This file contains the documentation for Command-Line.
+
+Hello, this project is a very simple implementation of Shell?Command-Prompt. The name of the projet is
+Command-Line. 
+Command-Line basically has a set of instructions that it can understand, and gives an output accordingly.
+
+This files also contains the list of commands that can be used by a user while working with the Command-Line.
+
+List of Commands : 
+---------------------
+
+!help -> Prints the Help Page on Interface.
+!quit -> CLoses the Command-Line.
+!hello -> Print a simple Grreting Message.
+
+NOTE :
+All Commands start with a "!" Exclaimation Sign. <<IMPORTANT**>>
+Try to enter commands in Lower Case. Although, the Command-Line can take input in Upper-Case also.
+
+
+
+This file will be updated as I add new commands to the Command-Line in the future.**
